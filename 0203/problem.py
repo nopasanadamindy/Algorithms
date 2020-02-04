@@ -44,3 +44,4 @@ for test_case in range(1, T + 1):
         result = sum
 
     print('#{} {}'.format(test_case,result))
+
