@@ -35,6 +35,9 @@
 # print(new)
 
 # 27
+# score = [85, 65, 77, 83, 75, 22, 98, 88, 38, 100]
+
+#1) while, pop
 # high = []
 # for i in range(len(score)):
 #     while 80 <= score[i]:
@@ -42,10 +45,54 @@
 #         i += 1
 # print(high)
 
-score = [85, 65, 77, 83, 75, 22, 98, 88, 38, 100]
+#1-2)
+# for i in range(len(score)):
+#     while score[i] <= 80:
+#         score.pop(i)
+# print(score)
 
-new = []
-for i in range(len(score)):
-    if score[i] >= 80:
-        new.append(score[i])
-print(sum(new))
+#2) for
+# new = []
+# for i in range(len(score)):
+#     if score[i] >= 80:
+#         new.append(score[i])
+# result = 0
+# for i in new:
+#     result += i
+# print(result)
+
+# #3) sorted
+# s_score = sorted(score)
+# # print(s_score)
+# for i in range(len(score)):
+#     if s_score[i] >= 80:
+#         # print(i)
+#         break
+#         s_sort.pop(i::)
+# print(s_score)
+
+#28
+# i = 5
+# while i >= 1:
+#     star = ('*' * i)
+#     print(star)
+#     i -= 1
+
+#29
+
+#30
+# num = int(input())
+# norm = list(range(10))
+# result = [0 for i in range(5)]
+
+# number = str(num)
+# for i in len(number):
+#     i = int(number)[i] 
+#     result. append([i])
+
+# for i in norm:
+#     print(i, end = ' ')
+# if 
+
+
+#31.
