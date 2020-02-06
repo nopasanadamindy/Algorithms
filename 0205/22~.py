@@ -81,18 +81,57 @@
 #29
 
 #30
+
+def conv(a):
+    return list(a)
+
 # num = int(input())
-# norm = list(range(10))
-# result = [0 for i in range(5)]
+num = 123
 
+#1)) 빈 딕셔너리 만들어주기
+dict = {}
+
+#2)) key값과 val값 추가하기
+for i in range(10):
+    dict[i] = 0
+
+#3)) num를 스트링으로 하나씩 잘라서 카운트 해주기
+number = str(num)
+for i in number:
+    dict[int(i)] += 1
+
+#4) 추출
+
+for i in dict.keys():
+    a = conv(str(i))
+for i in dict.values():
+    b = conv(str(i))
+
+print(a)
+print(b)
+
+
+# #추가
+# num = 55
+# idx = list(range(10))
+# cnt = [0 for i in range(10)]
+
+#1)) num -> str
 # number = str(num)
-# for i in len(number):
-#     i = int(number)[i] 
-#     result. append([i])
+#2)) 하나씩 꺼내서 그 숫자를 idx num로 저장
+# for i in number: # 효과적인 방법이 있을까?
+#     ii = int(i)
+#     cnt[ii] += 1
+#
+#3)) 출력 포맷
+# result_i = ''
+# result_c = ''
+# for i in idx:
+#     result_i += str(i) + ' '
+#
+# for i in cnt:
+#     result_c += str(i) + ' '
+#
+# print(result_i)
+# print(result_c)
 
-# for i in norm:
-#     print(i, end = ' ')
-# if 
-
-
-#31.
