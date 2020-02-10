@@ -1,4 +1,19 @@
 
+## 32
+inp = 9
+def binary(n):
+    result = 0
+    idx = 0
+    while (n >= 1):
+        remainder = n % 2
+        n = n // 2
+        result += (10 ** idx) * remainder
+        idx += 1
+    return result
+
+# inp = int(input())
+print(binary(inp))
+
 ## 34
 
 ## 1) 리스트를 잘라서?(짝/홀)
@@ -20,6 +35,37 @@
 
 ## 35
 
+##1)
+# def RSP(p1, p2, x1, x2):
+#     if x1 == x2:
+#         print('비겼습니다!')
+#
+#     # p1이 이길때
+#     if x1 == '가위' and x2 == '보':
+#         print('가위가 이겼습니다!')
+#     elif x1 == '바위'and x2 == '가위':
+#         print('바위가 이겼습니다!')
+#     elif x1 == '보' and x2 == '바위':
+#         print('보가 이겼습니다!')
+#
+#     # p2가 이길때
+#     if x2 == '가위' and x1 == '보':
+#         print('가위가 이겼습니다!')
+#     elif x2 == '바위'and x1 == '가위':
+#         print('바위가 이겼습니다!')
+#     elif x2 == '보' and x1 == '바위':
+#         print('보가 이겼습니다!')
+#
+# p1 = input()
+# p2 = input()
+# x1 = input()
+# x2 = input()
+# RSP(p1, p2, x1, x2)
+
+##2) list로 받기
+# def RSP(p1, p2):
+#
+#
 
 ## 36
 
@@ -43,7 +89,13 @@
 
 
 ## 37
+def fib(n) :
+    if n == 1 or n == 2:
+        return 1
+    return fib(n - 1) + fib (n - 2)
 
+
+print(fib(10))
 
 ## 38
 # a = [1, 2, 3, 4, 3, 2, 1]

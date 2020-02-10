@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac2709eb-ccf8-4dc2-9c4d-80fcab472716" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../0205/.idea/0205.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0205/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0205/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0205/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0205/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0205/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0205/22~.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0205/31~.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0205/41~.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0205/play.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0205/playy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0205/prac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,10 +14,11 @@
     <session id="-1136655116">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -53,32 +44,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01~.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="184" column="8" lean-forward="true" selection-start-line="184" selection-start-column="8" selection-end-line="184" selection-end-column="8" />
-              <folding>
-                <marker date="1581065972524" expanded="true" signature="111:137" ph="..." />
-                <marker date="1581065972524" expanded="true" signature="1394:1427" ph="..." />
-                <marker date="1581065972524" expanded="true" signature="2222:2223" ph="..." />
-                <marker date="1581065972524" expanded="true" signature="2558:2593" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prac.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -209,14 +175,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="933" y="6" width="985" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24920802" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24920802" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32894737" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991228" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -234,23 +199,23 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/prac.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01~.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="184" column="8" lean-forward="true" selection-start-line="184" selection-start-column="8" selection-end-line="184" selection-end-column="8" />
+        <state relative-caret-position="759">
+          <caret line="184" column="8" selection-start-line="184" selection-start-column="8" selection-end-line="184" selection-end-column="8" />
           <folding>
             <marker date="1581065972524" expanded="true" signature="111:137" ph="..." />
             <marker date="1581065972524" expanded="true" signature="1394:1427" ph="..." />
             <marker date="1581065972524" expanded="true" signature="2222:2223" ph="..." />
             <marker date="1581065972524" expanded="true" signature="2558:2593" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>

@@ -35,7 +35,26 @@
 # print(new)
 
 # 27
+# 다음은 학생의 점수를 나타내는 리스트입니다.
+# [85, 65, 77, 83, 75, 22, 98, 88, 38, 100]
+# while 문과 리스트 객체의 pop()을 이용해 80점 이상의 점수들의 총합을 구하시오.
+#     답 _ 454
+#
 # score = [85, 65, 77, 83, 75, 22, 98, 88, 38, 100]
+#
+# summation = 0
+# while bool(score):
+#     s = score.pop()
+#     if s >= 80:
+#         summation += s
+# print(summation)
+
+# while score[i] >= 80:
+#     for i in range(len(score)):
+#         h_score = score.pop(i)
+#         summation += h_score
+# print(summation)
+
 
 #1) while, pop
 # high = []
@@ -51,7 +70,7 @@
 #         score.pop(i)
 # print(score)
 
-#2) for
+# 2) for
 # new = []
 # for i in range(len(score)):
 #     if score[i] >= 80:
@@ -79,36 +98,51 @@
 #     i -= 1
 
 #29
+#
+# i = 7
+# j = 0
+# while i >= 1:
+#     star = (' ' * j)+ ('*' * i)
+#     print(star)
+#     i -= 2
+#     j += 1
+#
+# i = 7
+# j = 0
+# while i >= 1:
+#     star = (' ' * j) + ('*' * i)
+#     print(star)
+
 
 #30
-
-def conv(a):
-    return list(a)
-
-# num = int(input())
-num = 123
-
-#1)) 빈 딕셔너리 만들어주기
-dict = {}
-
-#2)) key값과 val값 추가하기
-for i in range(10):
-    dict[i] = 0
-
-#3)) num를 스트링으로 하나씩 잘라서 카운트 해주기
-number = str(num)
-for i in number:
-    dict[int(i)] += 1
-
-#4) 추출
-
-for i in dict.keys():
-    a = conv(str(i))
-for i in dict.values():
-    b = conv(str(i))
-
-print(a)
-print(b)
+#
+# def conv(a):
+#     return list(a)
+#
+# # num = int(input())
+# num = 123
+#
+# #1)) 빈 딕셔너리 만들어주기
+# dict = {}
+#
+# #2)) key값과 val값 추가하기
+# for i in range(10):
+#     dict[i] = 0
+#
+# #3)) num를 스트링으로 하나씩 잘라서 카운트 해주기
+# number = str(num)
+# for i in number:
+#     dict[int(i)] += 1
+#
+# #4) 추출
+#
+# for i in dict.keys():
+#     a = conv(str(i))
+# for i in dict.values():
+#     b = conv(str(i))
+#
+# print(a)
+# print(b)
 
 
 # #추가
