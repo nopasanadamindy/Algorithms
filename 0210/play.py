@@ -1,18 +1,18 @@
 ### 1. Reverse하기
 
-# s = "Reverse this strings"
-#
-# def rev(ary):
-#     l = list(ary)
-#     result = []
-#
-#     for i in range(len(l))[::-1]:
-#         result.append(i)
-#         return ''.join(result)
-#
-#     ary = 'algorithm'
-#     print(rev(ary))
-#
+s = "Reverse this strings"
+
+def rev(ary):
+    l = list(ary)
+    result = []
+
+    for i in range(len(l))[::-1]:
+        result.append(i)
+        return ''.join(result)
+
+    ary = 'algorithm'
+    print(rev(ary))
+
 #
 # def rev(ary):
 #     str = list(ary)
@@ -43,6 +43,7 @@
 # x = 123
 # print(itoa(x))
 
+
 # 선생님 solution
 # def itoa(x):
 #     str = list()
@@ -64,26 +65,26 @@
 ### 3. <연습문제 3>
 
 ## 1) 고지식한 방법 : for문
-def bruteF(text, pat):
-    for i in range(len(text) - len(pat) + 1):
-        for j in range(len(pat)):
-            if text[i + j] != pat[j]:
-                break
-        else:
-            return i
-
-
-def bruteF(t, p):
-    for i in range(len(t) - len(p) + 1):
-        cnt = 0
-        for j in range(len(p)):
-            if t[i + j] != p[j]:
-                break
-            else:
-                cnt += 1
-
-        if len(p) == cnt:
-            return i
+# def bruteF(text, pat):
+#     for i in range(len(text) - len(pat) + 1):
+#         for j in range(len(pat)):
+#             if text[i + j] != pat[j]:
+#                 break
+#         else:
+#             return i
+#
+#
+# def bruteF(t, p):
+#     for i in range(len(t) - len(p) + 1):
+#         cnt = 0
+#         for j in range(len(p)):
+#             if t[i + j] != p[j]:
+#                 break
+#             else:
+#                 cnt += 1
+#
+#         if len(p) == cnt:
+#             return i
 
 # text = "TTTAACCA"
 # pattern = "TTA"

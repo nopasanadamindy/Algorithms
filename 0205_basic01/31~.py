@@ -89,13 +89,13 @@ print(binary(inp))
 
 
 ## 37
-def fib(n) :
+def fib(n):
     if n == 1 or n == 2:
         return 1
-    return fib(n - 1) + fib (n - 2)
+    return fib(n-1) + fib (n-2)
 
-
-print(fib(10))
+num = int(input())
+print(fib(num))
 
 ## 38
 # a = [1, 2, 3, 4, 3, 2, 1]
