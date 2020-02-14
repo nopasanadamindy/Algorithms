@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="400369be-c7f8-41db-9816-61ccff715b90" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DFS problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/DFS problem.py" afterDir="false" />
+    <list default="true" id="c0e242d9-d271-4ff2-a14c-b6e439ea9c8f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../0213/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0213/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0213/DFS problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/../0213/DFS problem.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../jungol/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jungol/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,32 +13,37 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="1339482597">
+    <session id="-1226537810">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="py" value="3" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="Python" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="2763" />
+          <entry key="py" value="1711" />
+          <entry key="txt" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="2763" />
+          <entry key="PLAIN_TEXT" value="33" />
+          <entry key="Python" value="1711" />
         </counts>
       </usages-collector>
     </session>
@@ -46,45 +51,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/stack.py">
+        <entry file="file://$PROJECT_DIR$/게리맨더링2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="64" column="22" lean-forward="true" selection-start-line="64" selection-start-column="22" selection-end-line="64" selection-end-column="22" />
-              <folding>
-                <marker date="1581577072200" expanded="true" signature="67:296" ph="..." />
-                <marker date="1581577072200" expanded="true" signature="67:297" ph="..." />
-                <marker date="1581577072200" expanded="true" signature="307:312" ph="..." />
-                <marker date="1581577072200" expanded="true" signature="307:495" ph="..." />
-                <marker date="1581577072200" expanded="true" signature="307:496" ph="..." />
-                <marker date="1581577072200" expanded="true" signature="916:1251" ph="..." />
-                <marker date="1581577072200" expanded="true" signature="1479:1484" ph="..." />
-                <marker date="1581577072200" expanded="true" signature="1638:1643" ph="..." />
-                <marker date="1581577072200" expanded="true" signature="1638:1830" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DFS problem.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-end-line="14" />
-              <folding>
-                <marker date="1581642371535" expanded="true" signature="75:255" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DFS.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="48" lean-forward="true" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
-              <folding>
-                <marker date="1581570943597" expanded="true" signature="27:91" ph="..." />
-              </folding>
+            <state relative-caret-position="22">
+              <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -104,16 +74,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DFS.py" />
-        <option value="$PROJECT_DIR$/stack.py" />
-        <option value="$PROJECT_DIR$/DFS problem.py" />
+        <option value="$PROJECT_DIR$/게리맨더링2.txt" />
+        <option value="$PROJECT_DIR$/vi.py" />
+        <option value="$PROJECT_DIR$/게리맨더링2.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="79" />
-    <option name="y" value="16" />
-    <option name="width" value="994" />
+    <option name="x" value="30" />
+    <option name="width" value="1081" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -122,22 +91,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="0213" type="b2602c69:ProjectViewProjectNode" />
-              <item name="0213" type="462c0819:PsiDirectoryNode" />
+              <item name="dd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dd" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../0214" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RunDashboard">
@@ -152,9 +121,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.DFS problem">
-    <configuration name="DFS problem" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="0213" />
+  <component name="RunManager" selected="Python.vi">
+    <configuration name="게리맨더링2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dd" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -165,7 +134,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DFS problem.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/게리맨더링2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,8 +143,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="stack" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="0213" />
+    <configuration name="vi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dd" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -186,7 +155,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,13 +165,13 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.stack" />
-      <item itemvalue="Python.DFS problem" />
+      <item itemvalue="Python.게리맨더링2" />
+      <item itemvalue="Python.vi" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.DFS problem" />
-        <item itemvalue="Python.stack" />
+        <item itemvalue="Python.vi" />
+        <item itemvalue="Python.게리맨더링2" />
       </list>
     </recent_temporary>
   </component>
@@ -211,25 +180,25 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="400369be-c7f8-41db-9816-61ccff715b90" name="Default Changelist" comment="" />
-      <created>1581556509368</created>
+      <changelist id="c0e242d9-d271-4ff2-a14c-b6e439ea9c8f" name="Default Changelist" comment="" />
+      <created>1581586457062</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1581556509368</updated>
+      <updated>1581586457062</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="79" y="16" width="994" height="1047" extended-state="1" />
+    <frame x="30" y="0" width="1081" height="1047" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29288703" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24928091" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.114035085" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.14583333" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991228" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -246,41 +215,27 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DFS problem.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-end-line="14" />
-          <folding>
-            <marker date="1581642371535" expanded="true" signature="75:255" ph="..." />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DFS.py">
+    <entry file="file://$PROJECT_DIR$/게리맨더링2.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="48" lean-forward="true" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
-          <folding>
-            <marker date="1581570943597" expanded="true" signature="27:91" ph="..." />
-          </folding>
+        <state relative-caret-position="15">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stack.py">
+    <entry file="file://$PROJECT_DIR$/vi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/게리맨더링2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="64" column="22" lean-forward="true" selection-start-line="64" selection-start-column="22" selection-end-line="64" selection-end-column="22" />
-          <folding>
-            <marker date="1581577072200" expanded="true" signature="67:296" ph="..." />
-            <marker date="1581577072200" expanded="true" signature="67:297" ph="..." />
-            <marker date="1581577072200" expanded="true" signature="307:312" ph="..." />
-            <marker date="1581577072200" expanded="true" signature="307:495" ph="..." />
-            <marker date="1581577072200" expanded="true" signature="307:496" ph="..." />
-            <marker date="1581577072200" expanded="true" signature="916:1251" ph="..." />
-            <marker date="1581577072200" expanded="true" signature="1479:1484" ph="..." />
-            <marker date="1581577072200" expanded="true" signature="1638:1643" ph="..." />
-            <marker date="1581577072200" expanded="true" signature="1638:1830" ph="..." />
-          </folding>
+        <state relative-caret-position="22">
+          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
         </state>
       </provider>
     </entry>

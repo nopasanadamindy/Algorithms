@@ -13,6 +13,8 @@ def dfs(v):
         if G[v][w] == 1 and visited[w] == 0:
             dfs(W)
 
+    return visited
+
 
 import sys
 sys.stdin = open('연습3')
