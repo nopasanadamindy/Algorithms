@@ -14,9 +14,8 @@ def check(data):
     else:
         return 1
 
-T = 3
-data
-
+import sys
+sys.stdin = open()
 
 T = int(input())
 for test_case in range(T):
