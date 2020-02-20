@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9c23c9b-f283-4412-ac37-d4f4cdce1482" name="Default Changelist" comment="">
+    <list default="true" id="b6e3ad68-3e1e-46ff-8f42-9df158a1a84e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../0214/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0214/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../0219 stack 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0219 stack 2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../dd/.idea/dd.iml" beforeDir="false" />
@@ -12,7 +12,7 @@
       <change beforePath="$PROJECT_DIR$/../../dd/vi.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../dd/게리맨더링2.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../dd/게리맨더링2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Stack2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,12 +21,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="827558916">
+    <session id="1024072420">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -41,39 +40,52 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1121" />
+          <entry key="py" value="204" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1121" />
+          <entry key="Python" value="204" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/미로찾기.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="16" lean-forward="true" selection-end-line="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sol_미로.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Forth.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/괄호.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="11" column="46" lean-forward="true" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/Program Files/Python35/Lib/codecs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="291" selection-start-line="291" selection-end-line="291" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/반복문자.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -91,16 +103,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/미로찾기.py" />
-        <option value="$PROJECT_DIR$/ddd.py" />
-        <option value="$PROJECT_DIR$/Forth.py" />
-        <option value="$PROJECT_DIR$/sol_미로.py" />
+        <option value="$PROJECT_DIR$/반복문자.py" />
+        <option value="$PROJECT_DIR$/괄호.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="945" />
-    <option name="width" value="981" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="785" />
+    <option name="y" value="84" />
+    <option name="width" value="1100" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -114,8 +125,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="Stack2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Stack2" type="462c0819:PsiDirectoryNode" />
+              <item name="Stack1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stack1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -124,7 +135,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Stack2" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RunDashboard">
@@ -139,9 +150,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ddd">
-    <configuration name="미로찾기" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Stack2" />
+  <component name="RunManager" selected="Python.괄호">
+    <configuration name="괄호" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Stack1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -152,7 +163,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/미로찾기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/괄호.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,8 +172,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ddd" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Stack2" />
+    <configuration name="반복문자" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Stack1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -173,7 +184,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ddd.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/반복문자.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,13 +194,13 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.미로찾기" />
-      <item itemvalue="Python.ddd" />
+      <item itemvalue="Python.괄호" />
+      <item itemvalue="Python.반복문자" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ddd" />
-        <item itemvalue="Python.미로찾기" />
+        <item itemvalue="Python.괄호" />
+        <item itemvalue="Python.반복문자" />
       </list>
     </recent_temporary>
   </component>
@@ -198,32 +209,32 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c9c23c9b-f283-4412-ac37-d4f4cdce1482" name="Default Changelist" comment="" />
-      <created>1582103631509</created>
+      <changelist id="b6e3ad68-3e1e-46ff-8f42-9df158a1a84e" name="Default Changelist" comment="" />
+      <created>1582157092919</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1582103631509</updated>
+      <updated>1582157092919</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="945" y="0" width="981" height="1047" extended-state="0" />
+    <frame x="785" y="84" width="1100" height="1047" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19830328" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20433144" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22697368" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28399122" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -232,30 +243,60 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/괄호.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/괄호.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/반복문자.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/반복문자.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ddd.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-line="28" selection-end-column="17" />
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sol_미로.py">
+    <entry file="file://C:/Program Files/Python35/Lib/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="174">
+          <caret line="291" selection-start-line="291" selection-end-line="291" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/미로찾기.py">
+    <entry file="file://$PROJECT_DIR$/반복문자.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="16" lean-forward="true" selection-end-line="40" />
+        <state relative-caret-position="246">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Forth.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/괄호.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="46" lean-forward="true" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

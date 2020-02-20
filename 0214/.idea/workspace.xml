@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aafa7950-fa9a-425b-aebc-b275168585ca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../0213/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0213/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/0214.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/0214.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/괄호체크_new.py" beforeDir="false" afterPath="$PROJECT_DIR$/괄호체크_new.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dd/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dd/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../problem/.idea/problem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../problem/.idea/problem.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../problem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../problem/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../problem/List 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../problem/List 2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0219 stack 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0219 stack 2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dd/.idea/dd.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dd/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dd/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dd/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dd/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dd/vi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dd/게리맨더링2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dd/게리맨더링2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../problem/Stack2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../problem/Stack2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,48 +24,40 @@
     <session id="1142969093">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="11" />
+          <entry key="py" value="12" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="11" />
+          <entry key="Python" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="3793" />
+          <entry key="py" value="3901" />
           <entry key="txt" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="22" />
-          <entry key="Python" value="3793" />
+          <entry key="Python" value="3901" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dxdu.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dxdy.txt">
           <provider selected="true" editor-type-id="text-editor">
@@ -84,10 +79,15 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ladder.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            <state relative-caret-position="203">
+              <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dd.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -114,7 +114,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/00.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
@@ -183,13 +183,14 @@
         <option value="$PROJECT_DIR$/괄호체크_new.py" />
         <option value="$PROJECT_DIR$/sol_괄호체크.py" />
         <option value="$PROJECT_DIR$/00.py" />
+        <option value="$PROJECT_DIR$/dd.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="987" />
-    <option name="y" value="93" />
-    <option name="width" value="855" />
+    <option name="x" value="1018" />
+    <option name="y" value="32" />
+    <option name="width" value="906" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -213,7 +214,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../problem/List 2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../0220 stac2(순열)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -365,9 +366,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="987" y="93" width="855" height="1047" extended-state="0" />
+    <frame x="1018" y="32" width="906" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3255814" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14631337" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -448,37 +449,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ladder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files/Python35/Lib/urllib/parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10545">
-          <caret line="705" selection-start-line="705" selection-end-line="705" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/종이붙이기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-          <folding>
-            <marker date="1582071663281" expanded="true" signature="9:14" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sol_괄호체크.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/괄호체크.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -509,6 +479,40 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sol_괄호체크.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/종이붙이기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <folding>
+            <marker date="1582071663281" expanded="true" signature="9:14" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/urllib/parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10545">
+          <caret line="705" selection-start-line="705" selection-end-line="705" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ladder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dd.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
