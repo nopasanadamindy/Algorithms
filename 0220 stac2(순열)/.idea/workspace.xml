@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c33c37f8-3065-41c4-bede-330fe0dbf9b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../workshop/0226/.idea/0226.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. List 2/List 2 실습/이진탐색 풀기_재귀.py" beforeDir="false" afterPath="$PROJECT_DIR$/../02. List 2/List 2 실습/이진탐색 풀기_재귀.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. List 2/List 2 실습/특별한 정렬 for.py" beforeDir="false" afterPath="$PROJECT_DIR$/../02. List 2/List 2 실습/특별한 정렬 for.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. List 2/List 2 실습/특별한 정렬 풀기.py" beforeDir="false" afterPath="$PROJECT_DIR$/../02. List 2/List 2 실습/특별한 정렬 풀기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../problem/Stack2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../problem/Stack2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. String/.idea/06. String.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../06. String/.idea/06. String.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. String/01. String 이론/replace.py" beforeDir="false" afterPath="$PROJECT_DIR$/../06. String/01. String 이론/replace.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. String/01. String 이론/연습3_brute.py" beforeDir="false" afterPath="$PROJECT_DIR$/../06. String/01. String 이론/연습3_brute.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dd5_Stack2_연습문제/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dd5_Stack2_연습문제/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

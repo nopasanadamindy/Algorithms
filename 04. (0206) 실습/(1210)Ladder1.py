@@ -1,4 +1,3 @@
-
 def check(data, x, y):
     if x < 0 or x >= SIZE : return False
     if y < 0 or y >= SIZE : return False

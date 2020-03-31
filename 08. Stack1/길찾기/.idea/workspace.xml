@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f592997c-8b10-4f16-a790-a1e4750d42a0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../workshop/0226/.idea/0226.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02. List 2/List 2 실습/금속막대 (2)/금속막대 풀기.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../02. List 2/List 2 실습/금속막대 (2)/금속막대 풀기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02. List 2/List 2 실습/이진탐색 풀기_재귀.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../02. List 2/List 2 실습/이진탐색 풀기_재귀.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02. List 2/List 2 실습/특별한 정렬 for.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../02. List 2/List 2 실습/특별한 정렬 for.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02. List 2/List 2 실습/특별한 정렬 풀기.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../02. List 2/List 2 실습/특별한 정렬 풀기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0220 stac2(순열)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0220 stac2(순열)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03. (0205) 실습/.idea/03. (0205) 실습.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../03. (0205) 실습/.idea/03. (0205) 실습.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04. (0206) 실습/(1210)Ladder1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../04. (0206) 실습/(1210)Ladder1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04. (0206) 실습/(2001)파리퇴치_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../04. (0206) 실습/(2001)파리퇴치_input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06. String/.idea/06. String.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../06. String/.idea/06. String.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06. String/01. String 이론/replace.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../06. String/01. String 이론/replace.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06. String/01. String 이론/연습3_brute.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../06. String/01. String 이론/연습3_brute.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dd5_Stack2_연습문제/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../dd5_Stack2_연습문제/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1ZmhgM0lje2D7zi9Npo4wE6cpql" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="길찾기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="길찾기" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/길찾기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.길찾기" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f592997c-8b10-4f16-a790-a1e4750d42a0" name="Default Changelist" comment="" />
+      <created>1585450289462</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585450289462</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="837" height="2" key="GridCell.Tab.0.bottom" timestamp="1585459539226">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="837" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585459539226" />
+    <state width="837" height="2" key="GridCell.Tab.0.center" timestamp="1585459539226">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="837" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585459539226" />
+    <state width="837" height="2" key="GridCell.Tab.0.left" timestamp="1585459539225">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="837" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585459539225" />
+    <state width="837" height="2" key="GridCell.Tab.0.right" timestamp="1585459539226">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="837" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585459539226" />
+    <state width="837" height="2" key="GridCell.Tab.1.bottom" timestamp="1585459539226">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="837" height="2" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585459539226" />
+    <state width="837" height="2" key="GridCell.Tab.1.center" timestamp="1585459539226">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="837" height="2" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585459539226" />
+    <state width="837" height="2" key="GridCell.Tab.1.left" timestamp="1585459539226">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="837" height="2" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585459539226" />
+    <state width="837" height="2" key="GridCell.Tab.1.right" timestamp="1585459539226">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="837" height="2" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585459539226" />
+    <state x="555" y="54" key="SettingsEditor" timestamp="1585450380977">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="555" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585450380977" />
+    <state x="459" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1585450298642">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="459" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585450298642" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/길찾기.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

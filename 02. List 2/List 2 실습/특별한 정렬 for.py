@@ -15,12 +15,12 @@ for test_case in range(1, T+1):
     sorting(data)
 
     result = []
-    for x in range(len(data)-1):
+    for x in range((len(data))//2-1):
         result.append(data[len(data)-1 - x])
         result.append(data[x])
-    # print(result)
+    print(result)
 
-    print('#{}'.format(test_case), end = ' ')
-    for i in range(10):
-        print(result[i], end = ' ')
-    print()
+    # print('#{}'.format(test_case), end = ' ')
+    # for i in range(10):
+    #     print(result[i], end = ' ')
+    # print()

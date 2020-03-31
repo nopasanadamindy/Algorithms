@@ -1,14 +1,14 @@
 def Binary(start, end, key):
     global cnt
+    cnt += 1
     if start >= end:
         return False
-    cnt += 1
     else:
         middle = (start + end) // 2
         if key == middle:
             return cnt
         elif key < middle:
-            Binary(star  t, middle, key)
+            Binary(start, middle, key)
         else:
             Binary(middle, end, key)
     return cnt
@@ -21,4 +21,6 @@ for test_case in range(1, T+1):
     P, Pa, Pb = map(int, input().split())
     cnt = 0
     print(Binary(1, P, Pa))
+    cnt = 0### 초기화시켜줘야해
     print(Binary(1, P, Pb))
+
