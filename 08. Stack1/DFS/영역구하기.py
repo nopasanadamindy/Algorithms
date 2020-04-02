@@ -58,7 +58,6 @@ visited = [[0 for _ in range(M)] for _ in range(N)]
 for _ in range(K):
     y1, x1, y2, x2 = map(int, input().split())
     paintColor(x1, x2, y1, y2)
-prin(G)
 result = Solve()
 ans = sorted(result)
 print(len(ans))
