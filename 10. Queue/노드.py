@@ -9,12 +9,12 @@ def prin(a):
 def check(x, y):
     if G[x][y] == 0:
         return False
-    if visited[y] == 1:
+    elif visited[y] == 1:
         return False
     else:
         return True
 
-def bfs(start):
+def bfs(start,end):
     que = deque()
     x = start
     visited[x] = 1
@@ -24,12 +24,11 @@ def bfs(start):
             if check(x, y) == True:
                 que.append(y)
                 far[y] = far[x] + 1
-                if far[end] != 0:
-                    return far[end]
+                visited[x] = 1
+                if y == end:
+                    return far[y]
         if que:
             x = que.popleft()
-            if visited[x] == 0:
-                visited[x] = 1
         else:
             return 0
 
@@ -52,5 +51,5 @@ for test_case in range(1, T+1):
         G[data[i]][data[i+1]] = 1
         G[data[i+1]][data[i]] = 1
     # prin(G)
-    result = bfs(start)
+    result = bfs(start,end)
     print('#{} {}'.format(test_case, result))

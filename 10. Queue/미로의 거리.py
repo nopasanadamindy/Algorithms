@@ -44,27 +44,6 @@ def bfs(x, y):
         else:
             return 0
 
-    # que = deque() #1. queue 생성,  #2. visited 생성
-    # que.append([x, y])  #3. 첫번째 인자 queue넣기(enque)
-    # visited[x][y] = 1 #4. 첫번째 인자 visited 체크
-    #
-    # dx = [-1, 1, 0, 0] # 상하좌우
-    # dy = [0, 0, -1, 1]
-    # while que:   #5. while문
-    #     x, y = que.popleft() # 6. deque
-    #     for i in range(4):
-    #         nx = x + dx[i]
-    #         ny = y + dy[i]
-    #         if check(nx, ny) == True:
-    #             que.append([nx, ny])
-    #             print(que)
-    #             visited[nx][ny] = (visited[x][y] + 1)
-    #             prin(visited)
-    #             if data[nx][ny] == 3:
-    #                 return visited[nx][ny]
-    #     else:
-    #         return 0
-
 T = int(input())
 for test_case in range(1, T+1):
     N = int(input())
